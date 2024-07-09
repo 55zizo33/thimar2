@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "415344797649",
+    "project_id": "thimar2-app-amit-63",
+    "storage_bucket": "thimar2-app-amit-63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415344797649:android:abc14a4439a2708d2862f0",
+        "android_client_info": {
+          "package_name": "amit.t"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415344797649-q4mor4n2jqidn163tqu7vitm6q90dsn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "amit.t",
+            "certificate_hash": "4ad6a60656c94d1c4df6a6ab64ec888e9224b72a"
+          }
+        },
+        {
+          "client_id": "415344797649-jvm3cpf4272nke8uhp3fnqolrh6je2g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACpJYUo5GZF-dsvvGR2utkn9ZOWTNgzRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415344797649-jvm3cpf4272nke8uhp3fnqolrh6je2g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415344797649-gd475l834o9ev7ts6glp1a68i3m0iiqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amit.thimar2AppAmit63"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415344797649:android:fa48f3305e75c9e72862f0",
+        "android_client_info": {
+          "package_name": "com.am"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415344797649-jvm3cpf4272nke8uhp3fnqolrh6je2g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACpJYUo5GZF-dsvvGR2utkn9ZOWTNgzRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415344797649-jvm3cpf4272nke8uhp3fnqolrh6je2g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415344797649-gd475l834o9ev7ts6glp1a68i3m0iiqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amit.thimar2AppAmit63"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415344797649:android:dd418455fedde0e82862f0",
+        "android_client_info": {
+          "package_name": "com.amit.thimar2_app_amit63"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415344797649-jvm3cpf4272nke8uhp3fnqolrh6je2g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACpJYUo5GZF-dsvvGR2utkn9ZOWTNgzRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415344797649-jvm3cpf4272nke8uhp3fnqolrh6je2g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415344797649-gd475l834o9ev7ts6glp1a68i3m0iiqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amit.thimar2AppAmit63"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
